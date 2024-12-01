@@ -1,6 +1,6 @@
 ---
 layout: layouts/main.njk
-title: Home
+title: Home minecraft education
 hero:
   title: 'Prism Launcher'
   description: 'An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and
